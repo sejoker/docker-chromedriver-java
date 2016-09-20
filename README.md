@@ -1,2 +1,2 @@
 # docker-chromedriver-java
-Docker images based on [docker-chromedriver](https://github.com/sejoker/docker-chromedriver) with Java 7 on board.
+Docker images based on [docker-chromedriver](https://github.com/sejoker/docker-chromedriver) with Java 7 JRE based on [openjdk](https://github.com/docker-library/openjdk/blob/ac78a119a294925b60c8fe4e64c79abab1dd8dbf/7-jre/Dockerfile).
